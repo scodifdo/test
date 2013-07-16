@@ -4,7 +4,7 @@ Bundle-Name: %Bundle-Name
 Bundle-SymbolicName: com.softmodeler.ui;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-ClassPath: .
-Bundle-Vendor: %Bundle-Vendor
+Bundle-Vendor: henzler
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Require-Bundle: com.softmodeler.ui.compatibility;bundle-version="1.0.0"
 Export-Package: com.softmodeler.ui,
